@@ -5,6 +5,8 @@ You can configure this target processor in the MakeFile.inc file
 
 [![Nyancats-avr](https://raw.githubusercontent.com/Millisman/nyancat-avr/main/NyanCat.png)](https://raw.githubusercontent.com/Millisman/nyancat-avr/main/NyanCat.png)
 
+Picture received through Putty https://www.putty.org/
+
 The port is made from this project https://github.com/klange/nyancat
 
 # Nyancat CLI
